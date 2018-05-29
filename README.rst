@@ -1,7 +1,7 @@
-ESP-IDF template app
-====================
+ESP-OSCQuery osc-query implementation on ESP32
+==============================================
 
-This is a template application to be used with `Espressif IoT Development Framework`_ (ESP-IDF). 
+This application is to be used with `Espressif IoT Development Framework`_ (ESP-IDF).
 
 Please check ESP-IDF docs for getting started instructions.
 
@@ -9,4 +9,4 @@ Code in this repository is Copyright (C) 2016 Espressif Systems, licensed under 
 
 .. _Espressif IoT Development Framework: https://github.com/espressif/esp-idf
 
-
+Currently this is a draft.
