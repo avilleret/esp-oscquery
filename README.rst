@@ -2,6 +2,7 @@ ESP-OSCQuery osc-query implementation on ESP32
 ==============================================
 
 This application is to be used with `Espressif IoT Development Framework`_ (ESP-IDF).
+You need the [`feature/cmake`](https://github.com/espressif/esp-idf/tree/feature/cmake) branch of esp-idf.
 
 Please check ESP-IDF docs for getting started instructions.
 
